@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>visualize_my_moveit_trajectories</name>
+  <version>0.0.0</version>
+  <description>The visualize_my_moveit_trajectories package</description>
+
+  <maintainer email="me@v4hn.de">v4hn</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depends>moveit_msgs</depends>
+  <depends>moveit_msgs</depends>
+  <depends>rospy</depends>
+</package>
